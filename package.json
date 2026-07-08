@@ -1,0 +1,17 @@
+{
+  "name": "backendfull",
+  "version": "1.0.0",
+  "description": "a backend session by chai and code",
+  "keywords": [
+    "js",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Aditya yadav",
+  "type": "commonjs",
+  "main": "  ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
